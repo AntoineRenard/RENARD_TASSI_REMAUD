@@ -1,0 +1,20 @@
+button {
+    background-color: #5f62ff;
+    border:1px solid #5f62ff;
+    display:inline-block;
+    cursor:pointer;
+    color:#ffffff;
+    font-family:Arial;
+    font-size:20px;
+    text-decoration:none;
+}
+button:hover {
+    background-color:#ffffff;
+}
+button:active {
+    background-color:#ffffff;
+    position:relative;
+    top:1px;
+}
+
+       
